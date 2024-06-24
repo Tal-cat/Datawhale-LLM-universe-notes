@@ -1,4 +1,4 @@
-![image](https://github.com/Tal-cat/Datawhale-LLM-universe-notes/assets/60603537/c1871169-1437-4a31-a131-555222128ece)![image](https://github.com/Tal-cat/Datawhale-LLM-universe-notes/assets/60603537/c1871169-1437-4a31-a131-555222128ece)# LLM-universe     
+# LLM-universe     
 2024.06     
 教程地址：https://github.com/datawhalechina/llm-universe/tree/main      
      
